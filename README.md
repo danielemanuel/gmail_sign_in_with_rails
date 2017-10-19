@@ -1,24 +1,6 @@
-# README
+# Login with Google using Ruby on Rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- This is a basic example of Ruby on Rails that will allow someone to login to their Gmail account using OAuth
+- The gem used for the project is called `omniauth-google-oauth2`
+- Users are able to Sign In and Sign Out from their Gmail Account 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
